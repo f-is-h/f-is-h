@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <tr>
       <td valign="top" width="40%">
         <img src="./images/monkey-typing.gif" alt="Monkey Typing" width="100%" />
-        <details>
+        <details open>
           <summary></summary>
             πάντες ἄνθρωποι θνητοί εἰσιν
         </details>
