@@ -27,10 +27,10 @@ Here are some ideas to get you started:
       </td>
       <td valign="top" width="60%">
         <div>
-          <img src="https://github-readme-stats.vercel.app/api?username=f-is-h&show_icons=true&border_color=5595f0" alt="GitHub Status" width="100%" />
+          <img src="./profile/stats.svg" alt="GitHub Status" width="100%" />
         </div>
         <div>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-is-h&layout=compact&border_color=5595f0" alt="Top languages" width="100%" />
+          <img src="./profile/top-langs.svg" alt="Top languages" width="100%" />
         </div>
 
 ```
